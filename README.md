@@ -27,7 +27,7 @@ I'm **Sakshamg0126**, a passionate developer and machine learning enthusiast exp
 ## 📈 GitHub Stats
 
 - **Public Repositories:** 5
-- **Focus Areas:** ML, Computer Vision, Data Science
+- **Focus Areas:** ML, Deep Learning, Data Science
 
 ---
 
